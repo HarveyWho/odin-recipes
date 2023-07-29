@@ -1,4 +1,4 @@
-h1, h2, h3, h4 {
+h2, h3, h4 {
     color:salmon;
     font-size: 35px;
 }
@@ -28,4 +28,8 @@ ol {
 
 img {
     width: 1000px;
+}
+
+h1, h2, h3, h4, p1, img {
+    text-align: center;
 }
