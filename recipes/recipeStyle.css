@@ -1,19 +1,31 @@
-h1 {
-    color:salmon
-}
-
-h2 {
-    color: brown;
+h1, h2, h3, h4 {
+    color:salmon;
+    font-size: 35px;
 }
 
 p1 {
     color:dimgray
 }
 
-h3 {
-    color: black;
-}
-
 ul {
     color: blueviolet;
+}
+
+ol {
+    color: darkorange;
+    background-color: aquamarine;
+}
+
+.author {
+    color: aqua;
+    font-size: large;
+}
+
+.date {
+    color: blue;
+    font-size: x-large;
+}
+
+img {
+    width: 1000px;
 }
